@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/counter-redux/static/css/main.e26ea096.chunk.css",
+    "main.js": "/counter-redux/static/js/main.66fcb925.chunk.js",
+    "main.js.map": "/counter-redux/static/js/main.66fcb925.chunk.js.map",
+    "runtime-main.js": "/counter-redux/static/js/runtime-main.30ce9957.js",
+    "runtime-main.js.map": "/counter-redux/static/js/runtime-main.30ce9957.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/counter-redux/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.405fab71.chunk.js": "/counter-redux/static/js/2.405fab71.chunk.js",
+    "static/js/2.405fab71.chunk.js.map": "/counter-redux/static/js/2.405fab71.chunk.js.map",
+    "index.html": "/counter-redux/index.html",
+    "precache-manifest.52e5ec947df5a0c955bae05b722caf70.js": "/counter-redux/precache-manifest.52e5ec947df5a0c955bae05b722caf70.js",
+    "service-worker.js": "/counter-redux/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/counter-redux/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e26ea096.chunk.css.map": "/counter-redux/static/css/main.e26ea096.chunk.css.map",
+    "static/js/2.405fab71.chunk.js.LICENSE.txt": "/counter-redux/static/js/2.405fab71.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/counter-redux/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30ce9957.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.405fab71.chunk.js",
+    "static/css/main.e26ea096.chunk.css",
+    "static/js/main.66fcb925.chunk.js"
+  ]
+}
