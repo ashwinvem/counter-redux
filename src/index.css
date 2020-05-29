@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.counter{
+  width: 500px;
+  height: 300px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #d8d8d8;
+  border:2px solid black;
+  background-image: linear-gradient(to right, #A9A9A9,#808080,	#000000,#696969,#808080);
+  color: #ffffff;
+}
+.counter div span{
+  font-size: 33px;
+  margin-top: 10px;
+}
